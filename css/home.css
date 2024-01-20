@@ -1,0 +1,118 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+/* For Navigation */
+.navbar-brand{
+    width: 200px;
+}
+
+#logoImg{
+    margin-left: 30px;
+}
+
+#navbarSupportedContent{
+    margin-right: 30px;
+}
+
+.navig{
+    background-color: black;
+}
+
+/* For Banner */
+.banner{
+    /* height: 80vh; */
+    width: 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+/* For About us */
+
+.bannerContent{
+    font-size: 60px;
+}
+
+.aboutusheading{
+    font-size: 55px;
+}
+
+.aboutuspara{
+    font-size: 20px;
+}
+
+
+.banner2{
+    /* height: 80vh; */
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+
+/*  Input Fields For Contact Us  */
+.input-row{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+input{
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid black;
+    padding-bottom: 5px;
+    background: none;
+}
+textarea{
+    width: 100%;
+    border: 1px solid black;
+    background: none;
+}
+button{
+    background: brown;
+    width: 100px;
+    border: none;
+    color: white;
+    cursor: pointer;
+    border-radius: 30px;
+}
+
+.contactform{
+    background-color: #dcffff;
+}
+
+.article{
+    padding-left: 10px;
+}
+iframe {
+    width: 100%; /* Make the iframe take the full width of its container */
+    height: 400px; /* Set a fixed height for the iframe, adjust as needed */
+    border: 1px solid #ccc; /* Add a border for visual clarity */
+  }
+
+/* Footer content */
+#News{
+    padding-right: 35px !important;
+}
+
+#corporate{
+    padding-right: 35px;
+}
+
+#product{
+    padding-right: 33px;
+}
+
+
+/* For Whirl.css */
+.whirlbanner{
+    width: 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
